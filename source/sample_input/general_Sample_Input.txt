@@ -1,0 +1,17 @@
+Personal Information:
+- Age: 30
+- Occupation: Graphic Designer
+- Monthly Income: ₹80,000
+- Monthly Expenses: ₹50,000
+- Current Savings: ₹2,00,000
+- Investment Goals: Buying a home, building an emergency fund
+- Risk Tolerance: Low
+
+Specific Details:
+- Type of Financial Advice Needed: Investment planning
+- Current Financial Products (if any): Savings account, PPF (Public Provident Fund)
+- Any Debts or Loans: Yes
+  - If yes, provide details: ₹15,00,000 in student loans, ₹15,000 monthly installment
+
+Query:
+- Please provide me with advice on how to start investing with low risk and how to save for a down payment on a house.

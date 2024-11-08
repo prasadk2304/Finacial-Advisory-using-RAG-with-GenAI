@@ -1,0 +1,23 @@
+Personal Information:
+- Age: 40
+- Occupation: Marketing Manager
+- Monthly Income: ₹1,20,000
+- Monthly Expenses: ₹70,000
+- Current Savings: ₹3,00,000
+- Investment Goals: Children's education, retirement savings
+- Risk Tolerance: Moderate
+
+Loan Details:
+- Item Type: Home
+- Item Price: ₹50,00,000
+- Loan Term: 20 years
+- Interest Type: Fixed
+- Interest Rate: 7.5%
+
+Additional Information:
+- Do you have any other outstanding loans? Yes
+  - If yes, what is the monthly installment? ₹10,000 for a personal loan
+- Credit Score: 750
+
+**Query:**
+- Please provide me with advice on whether this home loan is suitable for my financial situation and if there are any better alternatives.

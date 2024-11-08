@@ -1,0 +1,22 @@
+Personal Information:
+- Age: 35
+- Occupation: Software Engineer
+- Monthly Income: ₹1,50,000
+- Monthly Expenses: ₹90,000
+- Current Savings: ₹5,00,000
+- Investment Goals: Retirement savings, children's education
+- Risk Tolerance: Moderate
+- Health Conditions (if applicable): None
+
+Insurance Policy Details:
+- Type of Insurance: Life Insurance
+- Policy Name: Whole Life Protection Plan
+- Sum Insured: ₹50,00,000
+- Policy Term: 30 years
+- Premium: ₹12,000 per year
+- Coverage: Death benefit, terminal illness, accidental death
+- Special Features: Cash value accumulation, loan facility
+- Exclusions: Suicide within the first two years, pre-existing conditions not declared
+
+Query:
+- Please provide me with advice on whether this life insurance policy meets my long-term financial goals and if there are any better alternatives.

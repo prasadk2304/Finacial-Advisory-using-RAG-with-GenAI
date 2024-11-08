@@ -1,0 +1,14 @@
+Age: 35
+Occupation: Software Engineer
+Monthly Income: ₹150,000
+Monthly Expenses: ₹70,000
+Current Savings: ₹500,000
+Investment Goals: Save for children's education and retirement
+Risk Tolerance: Moderate
+Time Horizon: 15 years
+Preferred Investment Type: Mutual funds and stocks
+Amount Available for Investment: ₹100,000
+Other Investments: ₹200,000 in fixed deposits
+Expected Returns: 10-12%
+
+Please provide me with investment advice.
